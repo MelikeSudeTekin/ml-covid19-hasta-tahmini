@@ -63,4 +63,3 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 4. Kod dosyasını çalıştırın: `python main.py`
 
 ---
-*Geliştirici: İsmail*
